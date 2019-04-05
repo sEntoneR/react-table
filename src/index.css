@@ -1,0 +1,22 @@
+thead tr th {
+    padding-right: 25px
+}
+
+tbody tr td {
+    padding-right: 25px;
+    padding-top: 15px;
+}
+
+thead tr th {
+    border-bottom: 2px solid black;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+
+
+
+
+
